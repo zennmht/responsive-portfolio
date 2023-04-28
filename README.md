@@ -2,4 +2,4 @@
 
 ### **Result : 👇🏻**
 
-[responsive porfolio](https://zennmht.github.io/responsive-portfolio/)
+[click here](https://zennmht.github.io/responsive-portfolio/)
